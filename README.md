@@ -80,20 +80,6 @@ Combines all hazard types in a single program — RAW hazards from comparisons, 
 | Quick Sort           | Control           | Branch instructions               | Pipeline flush          |
 | Insertion Sort       | Combination       | Mix of all above                  | Stall + Forward + Flush |
 
----
-
-## 📸 Screenshots
-
-> *Add your Ripes simulator screenshots in the `screenshots/` folder and they will appear below.*
-
-### Load-Use Hazard (Linear Search)
-![Load-Use Hazard](screenshots/load_use.png)
-
-### RAW Hazard (Matrix Multiplication)
-![RAW Hazard](screenshots/raw_hazard.png)
-
-### Control Hazard (Quick Sort)
-![Control Hazard](screenshots/control_hazard.png)
 
 ---
 
