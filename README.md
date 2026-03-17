@@ -7,19 +7,6 @@
 
 > Simulation and analysis of pipeline hazards in a **5-stage RISC-V processor** using the **Ripes simulator** — covering RAW, Load-Use, Control, and Combination hazards through real assembly programs.
 
----
-
-## 📌 Table of Contents
-
-- [Overview](#-overview)
-- [Pipeline Architecture](#-pipeline-architecture)
-- [Modules Implemented](#-modules-implemented)
-- [Hazard Analysis](#-hazard-analysis)
-- [Screenshots](#-screenshots)
-- [CPI Observations](#-cpi-observations)
-- [Tools Used](#️-tools-used)
-- [How to Run](#-how-to-run)
-- [Key Takeaways](#-key-takeaways)
 
 ---
 
