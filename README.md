@@ -130,4 +130,3 @@ Year   : 2024-2028
 
 ---
 
-⭐ *If you found this project useful, consider giving it a star!*
